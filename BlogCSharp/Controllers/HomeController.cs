@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        _logger.LogInformation("Entrando a la vista principal... por cierto, Eliana que linda eres xd lol <3");
         return View();
     }
 

@@ -1,0 +1,12 @@
+2022-07-21 02:49:17.193 -05:00 [INF] Now listening on: https://localhost:7076
+2022-07-21 02:49:17.255 -05:00 [INF] Now listening on: http://localhost:5235
+2022-07-21 02:49:17.261 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 02:49:17.261 -05:00 [INF] Hosting environment: Development
+2022-07-21 02:49:17.261 -05:00 [INF] Content root path: C:\Users\DELL\Desktop\BlogCSharpApp\BlogCSharp\
+2022-07-21 02:49:31.448 -05:00 [INF] Entrando a la vista principal... por cierto, Eliana que lina eres xd lol <3
+2022-07-21 02:54:22.942 -05:00 [INF] Now listening on: https://localhost:7076
+2022-07-21 02:54:22.993 -05:00 [INF] Now listening on: http://localhost:5235
+2022-07-21 02:54:22.998 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-21 02:54:22.998 -05:00 [INF] Hosting environment: Development
+2022-07-21 02:54:22.998 -05:00 [INF] Content root path: C:\Users\DELL\Desktop\BlogCSharpApp\BlogCSharp\
+2022-07-21 02:54:23.352 -05:00 [INF] Entrando a la vista principal... por cierto, Eliana que linda eres xd lol <3
